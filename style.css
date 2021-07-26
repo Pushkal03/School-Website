@@ -5,3 +5,39 @@
 body{
     text-align: center;
 }
+#SA{
+    width: 300px;
+}
+#Sc{
+    width: 300px;
+}
+.school_mainDiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.school_mainDiv img{
+    width:300px;
+}
+.school_mainDiv hr{
+    width:230px;
+}
+.school_mainDiv h5, .school_mainDiv p{
+
+    margin-left: 20px;
+}
+.achivements_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display: inline-block;
+}
+.achivements_head i{
+    float: right;
+}
+.achivements_text span{
+    color:#ff7700;
+}
