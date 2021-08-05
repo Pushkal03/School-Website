@@ -27,19 +27,18 @@ body{
 
     margin-left: 20px;
 }
-.achivements_head{
+.achivement_head{
     font-size: 20px;
     padding: 6px 22px;
     border-radius: 10px;
     margin-bottom: 15px;
     width:100%;
     display: inline-block;
-    padding-bottom: 400px;
 }
-.achivements_head i{
+.achivement_head i{
     float: right;
 }
-.achivements_text span{
+.achivement_head span{
     color:#ff7700;
 }
 #neverskip{
@@ -57,4 +56,28 @@ body{
 }
 .new_li p{
     margin-top: 10px
+}
+.chair{
+    cursor: pointer;
+}
+.chair hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
+#princepal{
+    width: 300px;
+}
+#1sir{
+    width: 500px;
 }
